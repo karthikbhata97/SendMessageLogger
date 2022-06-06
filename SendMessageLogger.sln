@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SendMessageLogger", "SendMessageLogger\SendMessageLogger.csproj", "{740C2A94-3A4B-4EF9-BB55-B6D3A1935CC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApp", "TestApp\TestApp.csproj", "{F1A848B4-2929-4110-95F5-CC2E5EBC5921}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{740C2A94-3A4B-4EF9-BB55-B6D3A1935CC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{740C2A94-3A4B-4EF9-BB55-B6D3A1935CC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{740C2A94-3A4B-4EF9-BB55-B6D3A1935CC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{740C2A94-3A4B-4EF9-BB55-B6D3A1935CC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1A848B4-2929-4110-95F5-CC2E5EBC5921}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1A848B4-2929-4110-95F5-CC2E5EBC5921}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1A848B4-2929-4110-95F5-CC2E5EBC5921}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1A848B4-2929-4110-95F5-CC2E5EBC5921}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {576FD535-A2EE-4DDC-9C9D-A5AC866930EC}
+	EndGlobalSection
+EndGlobal
